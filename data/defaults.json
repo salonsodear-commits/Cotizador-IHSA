@@ -1,0 +1,140 @@
+{
+  "CE": 35,
+  "ambAlq": [
+    {
+      "cm": 920000,
+      "mod": "Sprinter UTI Alq."
+    },
+    {
+      "cm": 780000,
+      "mod": "Master UTIM Alq."
+    },
+    {
+      "cm": 820000,
+      "mod": "Iveco Daily UTIM Alq."
+    }
+  ],
+  "ambCompra": [
+    {
+      "mod": "Sprinter UTI 0km",
+      "px": 95000000,
+      "res": 25000000,
+      "vu": 8
+    },
+    {
+      "mod": "Master UTIM 0km",
+      "px": 78000000,
+      "res": 20000000,
+      "vu": 8
+    }
+  ],
+  "caps": [
+    {
+      "ct": 180000,
+      "dest": 10,
+      "f": "Anual",
+      "n": "PHTLS"
+    },
+    {
+      "ct": 220000,
+      "dest": 8,
+      "f": "Anual",
+      "n": "ACLS"
+    },
+    {
+      "ct": 95000,
+      "dest": 15,
+      "f": "Anual",
+      "n": "BLS"
+    },
+    {
+      "ct": 65000,
+      "dest": 12,
+      "f": "Anual",
+      "n": "Manejo Defensivo"
+    },
+    {
+      "ct": 45000,
+      "dest": 20,
+      "f": "Anual",
+      "n": "H2S"
+    },
+    {
+      "ct": 55000,
+      "dest": 20,
+      "f": "Anual",
+      "n": "Seguridad Petrolera"
+    },
+    {
+      "ct": 75000,
+      "dest": 15,
+      "f": "Anual",
+      "n": "Trabajo en Altura"
+    },
+    {
+      "ct": 60000,
+      "dest": 15,
+      "f": "Anual",
+      "n": "Seguridad Minera"
+    },
+    {
+      "ct": 85000,
+      "dest": 12,
+      "f": "Anual",
+      "n": "Primeros Auxilios Avanzado"
+    }
+  ],
+  "pctConcSalRem": 35,
+  "seg": [
+    {
+      "p": 250000,
+      "t": "RC General"
+    },
+    {
+      "p": 180000,
+      "t": "RC Profesional"
+    },
+    {
+      "p": 120000,
+      "t": "ART"
+    },
+    {
+      "p": 35000,
+      "t": "Vida Oblig."
+    }
+  ],
+  "trAlq": [
+    {
+      "cm": 380000,
+      "mod": "Trailer Sanitario Alq.",
+      "tipo": "Sanitario"
+    },
+    {
+      "cm": 420000,
+      "mod": "Trailer Habit. Alq.",
+      "tipo": "Habitacional"
+    }
+  ],
+  "trCompra": [
+    {
+      "mod": "Trailer Sanitario Nuevo",
+      "px": 22000000,
+      "res": 3500000,
+      "tipo": "Sanitario",
+      "vu": 15
+    },
+    {
+      "mod": "Trailer Habit. Nuevo",
+      "px": 26000000,
+      "res": 4500000,
+      "tipo": "Habitacional",
+      "vu": 15
+    }
+  ],
+  "viandas": {
+    "Almuerzo": 15000,
+    "Cena": 15000,
+    "Desayuno": 8000,
+    "Merienda": 8000
+  }
+}

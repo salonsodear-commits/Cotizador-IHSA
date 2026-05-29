@@ -1,0 +1,227 @@
+[
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med001",
+    "n": "PETROLEO",
+    "nombre": "Adrenalina 1mg",
+    "pu": 2500.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med002",
+    "n": "PETROLEO",
+    "nombre": "Atropina 1mg",
+    "pu": 1800.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Cardiología",
+    "cl": "Básico",
+    "id": "med003",
+    "n": "PETROLEO",
+    "nombre": "Amiodarona 150mg",
+    "pu": 4200.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Analgésicos",
+    "cl": "Básico",
+    "id": "med004",
+    "n": "PETROLEO",
+    "nombre": "Diclofenac 75mg",
+    "pu": 950.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "General",
+    "cl": "Básico",
+    "id": "med005",
+    "n": "PETROLEO",
+    "nombre": "Sol. Fisiológica 500ml",
+    "pu": 3500.0,
+    "unidad": "Frasco"
+  },
+  {
+    "cat": "Traumatología",
+    "cl": "Básico",
+    "id": "med006",
+    "n": "PETROLEO",
+    "nombre": "Collar Cervical",
+    "pu": 8500.0,
+    "unidad": "Unidad"
+  },
+  {
+    "cat": "Traumatología",
+    "cl": "Básico",
+    "id": "med007",
+    "n": "PETROLEO",
+    "nombre": "Férula SAM",
+    "pu": 12000.0,
+    "unidad": "Unidad"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Avanzado",
+    "id": "med008",
+    "n": "PETROLEO",
+    "nombre": "Midazolam 5mg",
+    "pu": 3200.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Anestesia",
+    "cl": "Avanzado",
+    "id": "med009",
+    "n": "PETROLEO",
+    "nombre": "Ketamina 500mg",
+    "pu": 8500.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Anestesia",
+    "cl": "Avanzado",
+    "id": "med010",
+    "n": "PETROLEO",
+    "nombre": "Suxametonio 100mg",
+    "pu": 6200.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Cardiología",
+    "cl": "Avanzado",
+    "id": "med011",
+    "n": "PETROLEO",
+    "nombre": "Noradrenalina 4mg",
+    "pu": 5800.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Altura",
+    "cl": "Altura",
+    "id": "med012",
+    "n": "MINERIA",
+    "nombre": "Acetazolamida 250mg",
+    "pu": 850.0,
+    "unidad": "Comprimido"
+  },
+  {
+    "cat": "Altura",
+    "cl": "Altura",
+    "id": "med013",
+    "n": "MINERIA",
+    "nombre": "Nifedipina 10mg",
+    "pu": 450.0,
+    "unidad": "Comprimido"
+  },
+  {
+    "cat": "Altura",
+    "cl": "Altura",
+    "id": "med014",
+    "n": "MINERIA",
+    "nombre": "Oxígeno portátil",
+    "pu": 35000.0,
+    "unidad": "Tubo"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med015",
+    "n": "MINERIA",
+    "nombre": "Adrenalina 1mg",
+    "pu": 2500.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med016",
+    "n": "MINERIA",
+    "nombre": "Atropina 1mg",
+    "pu": 1800.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Antiinflamatorio",
+    "cl": "Básico",
+    "id": "med017",
+    "n": "MINERIA",
+    "nombre": "Dexametasona 8mg",
+    "pu": 2100.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Analgésicos",
+    "cl": "Básico",
+    "id": "med018",
+    "n": "MINERIA",
+    "nombre": "Ibuprofeno 400mg",
+    "pu": 150.0,
+    "unidad": "Comprimido"
+  },
+  {
+    "cat": "Analgésicos",
+    "cl": "Trauma",
+    "id": "med019",
+    "n": "MINERIA",
+    "nombre": "Morfina 10mg",
+    "pu": 7500.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Analgésicos",
+    "cl": "Trauma",
+    "id": "med020",
+    "n": "MINERIA",
+    "nombre": "Tramadol 100mg",
+    "pu": 1400.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med021",
+    "n": "OPERACIONES DEDICADAS",
+    "nombre": "Adrenalina 1mg",
+    "pu": 2500.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "Emergencia",
+    "cl": "Básico",
+    "id": "med022",
+    "n": "OPERACIONES DEDICADAS",
+    "nombre": "Atropina 1mg",
+    "pu": 1800.0,
+    "unidad": "Ampolla"
+  },
+  {
+    "cat": "General",
+    "cl": "Básico",
+    "id": "med023",
+    "n": "OPERACIONES DEDICADAS",
+    "nombre": "Sol. Fisiológica 500ml",
+    "pu": 3500.0,
+    "unidad": "Frasco"
+  },
+  {
+    "cat": "Antibióticos",
+    "cl": "Antibióticos",
+    "id": "med024",
+    "n": "OPERACIONES DEDICADAS",
+    "nombre": "Cefalexina 500mg",
+    "pu": 350.0,
+    "unidad": "Comp."
+  },
+  {
+    "cat": "Antibióticos",
+    "cl": "Antibióticos",
+    "id": "med025",
+    "n": "OPERACIONES DEDICADAS",
+    "nombre": "Amoxicilina 500mg",
+    "pu": 280.0,
+    "unidad": "Comp."
+  }
+]

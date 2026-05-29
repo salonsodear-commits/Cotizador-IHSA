@@ -1,0 +1,275 @@
+[
+  {
+    "at": "BASES NQN 2025",
+    "co": "ALQUILERES",
+    "pr": "Neuquén",
+    "tp": "GT- ALQ EDIFICIOS",
+    "v": 118045281.53
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "BENEFICIOS AL PERSONAL",
+    "pr": "Neuquén",
+    "tp": "GT- CAFETERIA",
+    "v": 6227800.0
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "BENEFICIOS AL PERSONAL",
+    "pr": "Neuquén",
+    "tp": "GT- COMEDOR/REFRI",
+    "v": 53150666.2
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "Neuquén",
+    "tp": "GT- IMPRENTA COMERC",
+    "v": 3563197.59
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "Neuquén",
+    "tp": "GT- INSUMOS COMPU",
+    "v": 6965405.69
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "Neuquén",
+    "tp": "GT- UTILES LIBRERÍA",
+    "v": 4573098.24
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "LIMPIEZA Y VIGILANCIA",
+    "pr": "Neuquén",
+    "tp": "GT- LIMPIEZA",
+    "v": 102967242.52
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "Neuquén",
+    "tp": "GT- MANT EDIFICIOS",
+    "v": 84634459.68
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "Neuquén",
+    "tp": "GT- MANT SOFTWARE",
+    "v": 15687118.11
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "SEGUROS",
+    "pr": "Neuquén",
+    "tp": "GT- OTROS SEGUROS",
+    "v": 14136373.19
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "SEGUROS",
+    "pr": "Neuquén",
+    "tp": "GT- SEG RESP CIVIL",
+    "v": 47307.55
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "Neuquén",
+    "tp": "GT- ENERGIA ELEC",
+    "v": 2327455.63
+  },
+  {
+    "at": "BASES NQN 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "Neuquén",
+    "tp": "GT- GAS Y AGUA",
+    "v": 1279148.98
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "ALQUILERES",
+    "pr": "San Juan",
+    "tp": "GT- ALQ EDIFICIOS",
+    "v": 35456880.0
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "BENEFICIOS AL PERSONAL",
+    "pr": "San Juan",
+    "tp": "GT- COMEDOR/REFRI",
+    "v": 28093090.26
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "San Juan",
+    "tp": "GT- IMPRENTA COMERC",
+    "v": 3931846.18
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "San Juan",
+    "tp": "GT- INSUMOS COMPU",
+    "v": 1279583.14
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "San Juan",
+    "tp": "GT- UTILES LIBRERÍA",
+    "v": 5884768.82
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "LIMPIEZA Y VIGILANCIA",
+    "pr": "San Juan",
+    "tp": "GT- LIMPIEZA",
+    "v": 22467367.37
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "San Juan",
+    "tp": "GT- MANT EDIFICIOS",
+    "v": 21264179.16
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "San Juan",
+    "tp": "GT- MANT SOFTWARE",
+    "v": 43747143.0
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "SEGUROS",
+    "pr": "San Juan",
+    "tp": "GT- OTROS SEGUROS",
+    "v": 2338508.06
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "San Juan",
+    "tp": "GT- ENERGIA ELEC",
+    "v": 2796680.4
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "San Juan",
+    "tp": "GT- GAS Y AGUA",
+    "v": 1350195.25
+  },
+  {
+    "at": "BASE SAN JUAN 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "San Juan",
+    "tp": "GT- ENLACES",
+    "v": 562400.0
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "ALQUILERES",
+    "pr": "Salta",
+    "tp": "GT- ALQ EDIFICIOS",
+    "v": 21121287.0
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "BENEFICIOS AL PERSONAL",
+    "pr": "Salta",
+    "tp": "GT- COMEDOR/REFRI",
+    "v": 2410395.0
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "Salta",
+    "tp": "GT- IMPRENTA COMERC",
+    "v": 1228297.37
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "INSUMOS DE OFICINA",
+    "pr": "Salta",
+    "tp": "GT- UTILES LIBRERÍA",
+    "v": 1237949.08
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "LIMPIEZA Y VIGILANCIA",
+    "pr": "Salta",
+    "tp": "GT- LIMPIEZA",
+    "v": 16129162.74
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "Salta",
+    "tp": "GT- MANT EDIFICIOS",
+    "v": 17135620.32
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "Salta",
+    "tp": "GT- MANT SOFTWARE",
+    "v": 2532100.0
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "SEGUROS",
+    "pr": "Salta",
+    "tp": "GT- OTROS SEGUROS",
+    "v": 1152697.24
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "Salta",
+    "tp": "GT- ENERGIA ELEC",
+    "v": 2657973.26
+  },
+  {
+    "at": "BASE SALTA 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "Salta",
+    "tp": "GT- ENLACES",
+    "v": 1488137.0
+  },
+  {
+    "at": "BASE MENDOZA 2025",
+    "co": "ALQUILERES",
+    "pr": "Mendoza",
+    "tp": "GT- ALQ EDIFICIOS",
+    "v": 42000000.0
+  },
+  {
+    "at": "BASE MENDOZA 2025",
+    "co": "LIMPIEZA Y VIGILANCIA",
+    "pr": "Mendoza",
+    "tp": "GT- LIMPIEZA",
+    "v": 28500000.0
+  },
+  {
+    "at": "BASE MENDOZA 2025",
+    "co": "MANTENIMIENTO",
+    "pr": "Mendoza",
+    "tp": "GT- MANT EDIFICIOS",
+    "v": 32000000.0
+  },
+  {
+    "at": "BASE MENDOZA 2025",
+    "co": "SERVICIOS PUBLICOS",
+    "pr": "Mendoza",
+    "tp": "GT- ENERGIA ELEC",
+    "v": 3200000.0
+  }
+]
