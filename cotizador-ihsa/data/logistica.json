@@ -1,0 +1,46 @@
+[
+  {
+    "p": "Qty Personas",
+    "v": 3.0
+  },
+  {
+    "p": "Qty Kms",
+    "v": 140.0
+  },
+  {
+    "p": "Qty Rotación",
+    "v": 2.0
+  },
+  {
+    "p": "Qty Viajes",
+    "v": 2.0
+  },
+  {
+    "p": "Qty Semanas",
+    "v": 4.0
+  },
+  {
+    "p": "$ LITRO",
+    "v": 1572.0
+  },
+  {
+    "p": "QTY LITROS X TANQUE",
+    "v": 75.0
+  },
+  {
+    "p": "KM x TANQUE",
+    "v": 500.0
+  },
+  {
+    "p": "Chofer",
+    "v": 2110301.12
+  },
+  {
+    "p": "Vehiculo de Logistica",
+    "v": 2372887.28
+  },
+  {
+    "p": "incidencia",
+    "v": 0.25
+  }
+]

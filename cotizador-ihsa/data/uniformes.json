@@ -1,0 +1,306 @@
+[
+  {
+    "e": 1,
+    "i": "CALZADO SEGURIDAD",
+    "n": "PETROLEO",
+    "ta": 48000.0,
+    "tm": 4000.0,
+    "u": 48000.0
+  },
+  {
+    "e": 2,
+    "i": "CHAQUETA",
+    "n": "PETROLEO",
+    "ta": 82000.0,
+    "tm": 6833.33,
+    "u": 41000.0
+  },
+  {
+    "e": 1,
+    "i": "CHOMBA NEGRA (Vista)",
+    "n": "PETROLEO",
+    "ta": 10086.14,
+    "tm": 840.51,
+    "u": 10086.14
+  },
+  {
+    "e": 1,
+    "i": "BUZO",
+    "n": "PETROLEO",
+    "ta": 27982.0,
+    "tm": 2331.83,
+    "u": 27982.0
+  },
+  {
+    "e": 1,
+    "i": "CASCO",
+    "n": "PETROLEO",
+    "ta": 11685.96,
+    "tm": 973.83,
+    "u": 11685.96
+  },
+  {
+    "e": 1,
+    "i": "PROT. AUDITIVO",
+    "n": "PETROLEO",
+    "ta": 33969.09,
+    "tm": 2830.76,
+    "u": 33969.09
+  },
+  {
+    "e": 2,
+    "i": "PANTALON CARGO",
+    "n": "PETROLEO",
+    "ta": 100508.48,
+    "tm": 8375.71,
+    "u": 50254.24
+  },
+  {
+    "e": 1,
+    "i": "CAMPERA",
+    "n": "PETROLEO",
+    "ta": 74000.0,
+    "tm": 6166.67,
+    "u": 74000.0
+  },
+  {
+    "e": 1,
+    "i": "PRIMERA PIEL",
+    "n": "PETROLEO",
+    "ta": 11083.0,
+    "tm": 923.58,
+    "u": 11083.0
+  },
+  {
+    "e": 1,
+    "i": "MAMELUCO (Vista)",
+    "n": "PETROLEO",
+    "ta": 118400.0,
+    "tm": 9866.67,
+    "u": 118400.0
+  },
+  {
+    "e": 2,
+    "i": "CALZADO SEGURIDAD",
+    "n": "PETROLEO 2",
+    "ta": 96000.0,
+    "tm": 8000.0,
+    "u": 48000.0
+  },
+  {
+    "e": 1,
+    "i": "CHAQUETA",
+    "n": "PETROLEO 2",
+    "ta": 20500.0,
+    "tm": 1708.33,
+    "u": 20500.0
+  },
+  {
+    "e": 2,
+    "i": "CHOMBA NEGRA (Vista)",
+    "n": "PETROLEO 2",
+    "ta": 20172.28,
+    "tm": 1681.02,
+    "u": 10086.14
+  },
+  {
+    "e": 2,
+    "i": "MAMELUCO (Vista)",
+    "n": "PETROLEO 2",
+    "ta": 236800.0,
+    "tm": 19733.33,
+    "u": 118400.0
+  },
+  {
+    "e": 2,
+    "i": "CHOMBA",
+    "n": "MINERIA",
+    "ta": 25434.66,
+    "tm": 2119.55,
+    "u": 12717.33
+  },
+  {
+    "e": 2,
+    "i": "PANTALON",
+    "n": "MINERIA",
+    "ta": 78809.96,
+    "tm": 6567.5,
+    "u": 39404.98
+  },
+  {
+    "e": 1,
+    "i": "PRIMERA PIEL",
+    "n": "MINERIA",
+    "ta": 11083.8,
+    "tm": 923.65,
+    "u": 11083.8
+  },
+  {
+    "e": 2,
+    "i": "CAMPERA POLAR",
+    "n": "MINERIA",
+    "ta": 72618.0,
+    "tm": 6051.5,
+    "u": 36309.0
+  },
+  {
+    "e": 1,
+    "i": "CHALECO TERMICO",
+    "n": "MINERIA",
+    "ta": 23569.0,
+    "tm": 1964.08,
+    "u": 23569.0
+  },
+  {
+    "e": 1,
+    "i": "CAMPERA",
+    "n": "MINERIA",
+    "ta": 109948.85,
+    "tm": 9162.4,
+    "u": 109948.85
+  },
+  {
+    "e": 1,
+    "i": "PANTALON CARGO",
+    "n": "MINERIA",
+    "ta": 79881.76,
+    "tm": 6656.81,
+    "u": 79881.76
+  },
+  {
+    "e": 2,
+    "i": "MEDIAS TERMICAS",
+    "n": "MINERIA",
+    "ta": 24508.8,
+    "tm": 2042.4,
+    "u": 12254.4
+  },
+  {
+    "e": 1,
+    "i": "PASAMONTAÑA",
+    "n": "MINERIA",
+    "ta": 6370.0,
+    "tm": 530.83,
+    "u": 6370.0
+  },
+  {
+    "e": 1,
+    "i": "GUANTES",
+    "n": "MINERIA",
+    "ta": 8000.0,
+    "tm": 666.67,
+    "u": 8000.0
+  },
+  {
+    "e": 1,
+    "i": "ANTEOJOS OSCUROS",
+    "n": "MINERIA",
+    "ta": 19547.55,
+    "tm": 1628.96,
+    "u": 19547.55
+  },
+  {
+    "e": 1,
+    "i": "ANTEOJOS CLAROS",
+    "n": "MINERIA",
+    "ta": 19547.55,
+    "tm": 1628.96,
+    "u": 19547.55
+  },
+  {
+    "e": 1,
+    "i": "CARCAZA CASCO",
+    "n": "MINERIA",
+    "ta": 11685.96,
+    "tm": 973.83,
+    "u": 11685.96
+  },
+  {
+    "e": 1,
+    "i": "PROTECTOR AUDITIVO",
+    "n": "MINERIA",
+    "ta": 33968.88,
+    "tm": 2830.74,
+    "u": 33968.88
+  },
+  {
+    "e": 1,
+    "i": "BOTIN",
+    "n": "MINERIA",
+    "ta": 101500.0,
+    "tm": 8458.33,
+    "u": 101500.0
+  },
+  {
+    "e": 1,
+    "i": "BOTA DE NIEVE",
+    "n": "MINERIA",
+    "ta": 154245.6,
+    "tm": 12853.8,
+    "u": 154245.6
+  },
+  {
+    "e": 1,
+    "i": "CALZADO SEGURIDAD",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 48000.0,
+    "tm": 4000.0,
+    "u": 48000.0
+  },
+  {
+    "e": 2,
+    "i": "CHAQUETA",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 82000.0,
+    "tm": 6833.33,
+    "u": 41000.0
+  },
+  {
+    "e": 1,
+    "i": "BUZO",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 27982.0,
+    "tm": 2331.83,
+    "u": 27982.0
+  },
+  {
+    "e": 1,
+    "i": "CASCO",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 11685.96,
+    "tm": 973.83,
+    "u": 11685.96
+  },
+  {
+    "e": 1,
+    "i": "PROT. AUDITIVO",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 33969.09,
+    "tm": 2830.76,
+    "u": 33969.09
+  },
+  {
+    "e": 2,
+    "i": "PANTALON CARGO",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 100508.48,
+    "tm": 8375.71,
+    "u": 50254.24
+  },
+  {
+    "e": 1,
+    "i": "CAMPERA",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 74000.0,
+    "tm": 6166.67,
+    "u": 74000.0
+  },
+  {
+    "e": 1,
+    "i": "PRIMERA PIEL",
+    "n": "OPERACIONES DEDICADAS",
+    "ta": 11083.0,
+    "tm": 923.58,
+    "u": 11083.0
+  }
+]
